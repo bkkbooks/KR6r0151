@@ -1,0 +1,301 @@
+canonical_identifier: bkk:krp/KR6r0151/v1
+canonical_location: https://kanripo.org/bkk/KR6r0151/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 折疑論
+  identifiers:
+    alt_id:
+    - T52n2118
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2118.xml
+    old_id: T52n2118
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0151_000.yaml, hash: 'sha256:9d09e746f5713e8f0673c2249a92fb4ecefed60fc65f7d4e31abac2cf314ff52'}
+  - {seq: 1, filename: KR6r0151_001.yaml, hash: 'sha256:dcb3d71114229f921ae119713f093fa5cf5cd06deba1473cd674d0bf339200c3'}
+  - {seq: 2, filename: KR6r0151_002.yaml, hash: 'sha256:513d503c0c145d7cf3697b410817484e055c084bf74db51d4ee2e51685ce93f7'}
+  - {seq: 3, filename: KR6r0151_003.yaml, hash: 'sha256:03b70bc0df0b9b623cc6a0f511c2c476d6c28c9a8a91e5598d7f02a29b1bcb7f'}
+  - {seq: 4, filename: KR6r0151_004.yaml, hash: 'sha256:d84cfd8c476d12376112052ffce0682b79f82d371dc28f321ecb957bcd4338e1'}
+  - {seq: 5, filename: KR6r0151_005.yaml, hash: 'sha256:c5dc4095865edd174a7c770e3a9d49527fb27730107a3f191989c97b1fdee794'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0151_000.markers.yaml, hash: 'sha256:1df47e9c0a24e1b1008c2a98adaf90f749c988dd49ac24db9fb356c988a3bb05'}
+  - {seq: 1, role: markers, filename: assets/KR6r0151_001.markers.yaml, hash: 'sha256:ea4f7392d73c059bf37dfa9bb5eee0ca95b7267408d1013b798dfeec161f46b2'}
+  - {seq: 2, role: markers, filename: assets/KR6r0151_002.markers.yaml, hash: 'sha256:422ed0128cf8f86eb91f79b5ac929f8221912076422a996488524a68aba9aa5d'}
+  - {seq: 3, role: markers, filename: assets/KR6r0151_003.markers.yaml, hash: 'sha256:0f61864c6faa8ccc7649c833a052bc9c5b9b77ebed44964099dbffc2c58c06c6'}
+  - {seq: 4, role: markers, filename: assets/KR6r0151_004.markers.yaml, hash: 'sha256:614beb75488380f462eec6647d5bec5e951ce9355111c6dc2b3ec3e9b7d748d4'}
+  - {seq: 5, role: markers, filename: assets/KR6r0151_005.markers.yaml, hash: 'sha256:ffe5d5e0d974a1b4190fd0cb0f06f35cdb0d77861544ed5599fce998292d0502'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0151_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 折疑論敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0151_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9729
+  label: 折疑論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0151_T_001-mulu-1
+    span:
+    - body
+    - 72
+    - 72
+  label: 1 敘問(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0151_T_001-mulu-2
+    span:
+    - body
+    - 1619
+    - 1619
+  label: 2 聖生(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0151_T_001-mulu-3
+    span:
+    - body
+    - 5816
+    - 5816
+  label: 3 問佛(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0151_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9643
+  label: 折疑論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0151_T_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 喻舉(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0151_T_002-mulu-2
+    span:
+    - body
+    - 1514
+    - 1514
+  label: 5 宗師(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0151_T_002-mulu-3
+    span:
+    - body
+    - 3725
+    - 3725
+  label: 6 通相(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0151_T_002-mulu-4
+    span:
+    - body
+    - 4199
+    - 4199
+  label: 7 論孝(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0151_T_002-mulu-5
+    span:
+    - body
+    - 8127
+    - 8127
+  label: 8 拒毀(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0151_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9169
+  label: 折疑論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0151_T_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 9 評議(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0151_T_003-mulu-2
+    span:
+    - body
+    - 2142
+    - 2142
+  label: 10 舉問(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0151_T_003-mulu-3
+    span:
+    - body
+    - 3727
+    - 3727
+  label: 11 解域(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0151_T_003-mulu-4
+    span:
+    - body
+    - 5642
+    - 5642
+  label: 12 釋謗(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0151_T_003-mulu-5
+    span:
+    - body
+    - 7249
+    - 7249
+  label: 13 辯施(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0151_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6036
+  label: 折疑論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0151_T_004-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 14 殊見(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0151_T_004-mulu-2
+    span:
+    - body
+    - 1165
+    - 1165
+  label: 15 隨宜(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0151_T_004-mulu-3
+    span:
+    - body
+    - 1888
+    - 1888
+  label: 16 優劣(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0151_T_004-mulu-4
+    span:
+    - body
+    - 4082
+    - 4082
+  label: 17 先知(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0151_T_004-mulu-5
+    span:
+    - body
+    - 5224
+    - 5224
+  label: 18 尊釋(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0151_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 3711
+  label: 折疑論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0151_T_005-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 19 言符(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0151_T_005-mulu-2
+    span:
+    - body
+    - 738
+    - 738
+  label: 20 會名(五)
+  type: mulu
+  level: 1
+hash: sha256:a433859a89b9dd1616c5a69d96034d4b640d53fdf652b2c529a41569b43519bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
